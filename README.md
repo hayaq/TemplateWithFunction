@@ -1,4 +1,4 @@
-GlobalScopeCall
-===============
+TemplateWithFunction
+====================
 
-Global scope function call macro
+Template class with function pointer
